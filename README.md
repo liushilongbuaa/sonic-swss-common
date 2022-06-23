@@ -15,6 +15,7 @@ The SWitch State Service (SWSS) common library provides libraries for database c
 ### Build from Source
 
 Checkout the source:
+HAHA
 
     git clone --recursive https://github.com/Azure/sonic-swss-common
 
